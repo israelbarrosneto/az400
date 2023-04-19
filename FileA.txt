@@ -1,4 +1,7 @@
 This is FileA
 This is a change to the FileA
+<<<<<<< HEAD
 Mais uma alteracao no codigo feito no visual studio community
-Essa é a versão 4
+Essa é a versão 3
+Essa é a versao 4
+Essa é a versao PULL REQUEST 
