@@ -5,3 +5,4 @@ Mais uma alteracao no codigo feito no visual studio community
 Essa é a versão 3
 Essa é a versao 4
 Essa é a versao PULL REQUEST 
+Versão 6 - push do visual studio code community - Feature200
