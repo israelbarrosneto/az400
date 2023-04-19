@@ -1,8 +1,9 @@
 This is FileA
 This is a change to the FileA
-<<<<<<< HEAD
 Mais uma alteracao no codigo feito no visual studio community
-Essa é a versão 3
-Essa é a versao 4
-Essa é a versao PULL REQUEST 
-Mais nova alteracao
+Essa Ã© a versÃ£o 3
+Essa Ã© a versao 4
+Essa Ã© a versao PULL REQUEST 
+VersÃ£o 6 - push do visual studio code community - Feature200
+
+
